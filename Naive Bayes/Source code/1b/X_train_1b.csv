@@ -1,0 +1,12 @@
+SampleID,Size,Number,Thickness
+1,big,low,deep
+2,big,over,deep
+3,normal,over,shallow
+4,big,low,shallow
+5,big,over,deep
+6,normal,over,deep
+7,big,low,shallow
+8,big,over,shallow
+9,big,over,deep
+10,normal,low,deep
+
